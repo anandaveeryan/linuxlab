@@ -2,7 +2,7 @@
 Each file in this repository will do one task and each of them is explained in detail below
 # Instructions to execute
   If the file is having sh extension then it can be executed as follows:  
-  * ./filename.sh  
+  * ./filename.sh
   If the file is having c extension then the command in linux is as follows:  
   * gcc filename.c  
   * ./a.out
