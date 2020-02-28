@@ -10,5 +10,5 @@ Using system calls to open, read and write files.
   This will read the contents of the test.txt file.
 # write.c
   This will write the given content to the w.txt file.
-# nread.c and nwritec.c
+# nread.c and nwrite.c
   These are same as read and write except the fact that it will do the operations in a nonblocking manner.
