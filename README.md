@@ -1,8 +1,10 @@
 # linuxlab
-Using system calls to open, read and write files.
+Each file in this repository will do one task and each of them is explained in detail below
 # Instructions to execute
-  To run the file the command in linux is as follows
-    gcc filename.c
+  If the file is having sh extension then the steps are:__
+    ./filename
+  If the file is having c extension then the command in linux is as follows__
+    gcc filename.c__
     ./a.out
 # open.c
   This will open the test.txt file.
